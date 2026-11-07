@@ -1,8 +1,13 @@
 name: Collect academic feeds
 on:
   schedule:
-    - cron: '0 16 * * *' # 01:00 Asia/Seoul (UTC previous day 16:00)
+    - cron: '0 16 * * *' # 01:00 Asia/Seoul (UTC 16:00 previous day)
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/collect.yml'
+      - 'src/import-cloudflare.mjs'
 permissions:
   contents: write
   pages: write
@@ -11,7 +16,7 @@ concurrency:
   group: academic-pages
   cancel-in-progress: false
 jobs:
-  collect-and-deploy:
+  import-and-deploy:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -22,16 +27,23 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: npm install --no-audit --no-fund
-      - name: Collect new RSS items
-        run: npm run collect
-      - name: Commit collected data
+      - name: Fetch existing Cloudflare feed API
+        run: |
+          curl --fail-with-body -L -sS --show-error --retry 3 \
+            --retry-all-errors --connect-timeout 15 --max-time 90 \
+            -A "AcademicFeedGitHub/1.0" \
+            "https://news-feed.mara04.workers.dev/api/articles?limit=1000" \
+            -o /tmp/cloudflare.json
+          echo "Cloudflare response bytes: $(wc -c < /tmp/cloudflare.json)"
+      - name: Import English articles (no AI API)
+        run: node src/import-cloudflare.mjs /tmp/cloudflare.json
+      - name: Commit English articles and remove expired entries
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/data/en.json docs/data/ko.json
           if ! git diff --cached --quiet; then
-            git commit -m "Update academic feeds"
+            git commit -m "Mirror Cloudflare academic articles"
             git push
           fi
       - uses: actions/configure-pages@v5
