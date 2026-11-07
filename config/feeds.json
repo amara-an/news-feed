@@ -1,0 +1,24 @@
+{
+  "limit_per_feed_per_day": 20,
+  "retention_days": 30,
+  "feeds": [
+    {
+      "id": "nature",
+      "name": "Nature",
+      "category": "자연과학",
+      "url": "https://www.nature.com/nature.rss"
+    },
+    {
+      "id": "nature-human-behaviour",
+      "name": "Nature Human Behaviour",
+      "category": "사회과학",
+      "url": "https://www.nature.com/nathumbehav.rss"
+    },
+    {
+      "id": "arxiv-ai",
+      "name": "arXiv AI",
+      "category": "AI·컴퓨터",
+      "url": "https://rss.arxiv.org/rss/cs.AI"
+    }
+  ]
+}
