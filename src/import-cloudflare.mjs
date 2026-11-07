@@ -40,9 +40,7 @@ function normalizeSource(value) {
   const raw=normalizeText(value);
   const mapped=sources.get(raw.toLowerCase());
   if(mapped)return mapped;
-  if (/arxiv/i.test(raw))return sources.get("arxiv ai");
-  if (/nature human behav/i.test(raw))return sources.get("nature human behaviour");
-  if (/nature/i.test(raw))return sources.get("nature");
+  // New feed names stay distinct; never silently merge Nature Physics into Nature.
   return { name:raw||"Other",category:"학술" };
 }
 function toArticle(item) {

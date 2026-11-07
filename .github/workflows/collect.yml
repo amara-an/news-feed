@@ -8,6 +8,7 @@ on:
     paths:
       - '.github/workflows/collect.yml'
       - 'src/import-cloudflare.mjs'
+      - 'src/fetch-cloudflare.mjs'
 permissions:
   contents: write
   pages: write
@@ -27,14 +28,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Fetch existing Cloudflare feed API
-        run: |
-          curl --fail-with-body -L -sS --show-error --retry 3 \
-            --retry-all-errors --connect-timeout 15 --max-time 90 \
-            -A "AcademicFeedGitHub/1.0" \
-            "https://news-feed.mara04.workers.dev/api/articles?limit=1000" \
-            -o /tmp/cloudflare.json
-          echo "Cloudflare response bytes: $(wc -c < /tmp/cloudflare.json)"
+      - name: Fetch all Cloudflare pages
+        run: node src/fetch-cloudflare.mjs /tmp/cloudflare.json
       - name: Import English articles (no AI API)
         run: node src/import-cloudflare.mjs /tmp/cloudflare.json
       - name: Commit English articles and remove expired entries
