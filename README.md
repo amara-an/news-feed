@@ -1,22 +1,23 @@
 # Academic Feed
 
-개인 학술 피드 — 영문 RSS 자동 수집 + 승인 후 한국어 번역 게시.
+학술 RSS를 읽기 위한 개인용 영문·한국어 피드.
 
-- RSS: Nature / Nature Human Behaviour / arXiv AI
-- 각 피드: 하루 신규 기사 최대 20건
-- 중복 제거: DOI / URL / 제목
-- 보존: 최근 30일
-- 자동 수집: GitHub Actions, 01:00 KST
-- 번역: ChatGPT 대화에서 사용자의 명시적 승인 후 GitHub에 게시 (별도 OpenAI API 호출 없음)
-- 예약 확인: ChatGPT, 04:00 KST (번역·게시 자동 승인 아님)
+## 구성
+- 자료: Nature, Nature Human Behaviour, arXiv AI
+- Cloudflare Workers: 매일 01:00 KST, 출처별 신규 최대 20건 수집, 중복 제거
+- GitHub Actions: 매일 02:00 KST, **공개된 Cloudflare JSON API**에서 이미 수집한 영문 기사를 가져와 `docs/data/en.json`에 저장하고 GitHub Pages 배포
+- 보관 기간: 영문·한국어 기사 모두 최근 30일
+- ChatGPT 예약 확인: 매일 04:00 KST, 신규 미번역 기사를 확인하고 사용자에게 번역·게시 승인 요청
+- **사용자 승인 후에만** ChatGPT 일반 대화에서 신규 기사를 한국어로 번역해 `docs/data/ko.json`에 게시. 별도 OpenAI API 사용 없음
 
-영문: `/en/`, 한국어: `/ko/` (GitHub Pages).
+## 읽기
+- 영어: https://amara-an.github.io/news-feed/en/
+- 한국어: https://amara-an.github.io/news-feed/ko/
+- 수집 로그: https://github.com/amara-an/news-feed/actions
 
-## 설정
+## 수동 시험
+1. GitHub → Actions → Collect academic feeds → Run workflow
+2. 실행 로그의 Cloudflare HTTP 호출과 import 결과 확인
+3. `docs/data/en.json`의 기사와 GitHub Pages 배포 결과 확인
 
-1. 저장소 Settings → Pages → Source를 **GitHub Actions**로 변경.
-2. Actions 권한의 `GITHUB_TOKEN`에 Contents: write 허용 (필요시).
-3. Actions의 "Collect academic feeds"에서 **Run workflow**로 수동 시험.
-4. 학술 자료 수집과 HTML 게시 결과 확인 후 ChatGPT 승인형 번역 연결.
-
-수집·게시 구조는 기존 GitHub RSS 리더 프로젝트(YourFeedHub, osmos::feed 등)의 일반적인 Actions + Pages 배치를 참고하되 코드는 독립 구현.
+GitHub에서 학술 RSS를 직접 호출하지 않는다. Cloudflare의 기존 검증된 수집기를 계속 사용한다. 실패 시 기존 GitHub JSON을 덮어쓰지 않도록 Cloudflare 데이터가 비어 있거나 형식이 틀리면 수집 워크플로를 실패 처리한다.
