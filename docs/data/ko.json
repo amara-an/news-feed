@@ -817,6 +817,76 @@
       "category": "Social Sciences",
       "published_at": "2026-10-26T00:00:00.000Z",
       "collected_at": "2026-11-06T16:00:48.093Z"
+    },
+    {
+      "key": "url:https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
+      "url": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
+      "doi": null,
+      "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
+      "title_key": "astrangequantumtheoremhaskilledeinsteinsreality",
+      "summary": "Albert Einstein fought to save our everyday notion of reality from the strangeness of quantum mechanics. But those who set out to aid him keep poking holes in his argument. The post A Strange Quantum Theorem Has Killed Einstein’s Reality first appeared on Quanta Magazine",
+      "source": "Quanta Magazine",
+      "category": "Science & Mathematics",
+      "published_at": "2026-11-06T15:48:54.000Z",
+      "collected_at": "2026-11-08T16:00:47.932Z",
+      "title_ko": "기묘한 양자 정리가 무너뜨린 아인슈타인의 현실관",
+      "summary_ko": "알베르트 아인슈타인은 양자역학의 기묘함 속에서도 우리가 일상에서 받아들이는 현실 개념을 지키려 했다. 하지만 그를 돕고자 나선 연구자들은 오히려 그의 논증에서 잇따라 허점을 찾아내고 있다."
+    },
+    {
+      "key": "url:https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "doi": null,
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "title_key": "newresearchtestswhetheraimodelsknowtheirownthoughts",
+      "summary": "By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection. The post New Research Tests Whether AI Models Know Their Own Thoughts first appeared on Quanta Magazine",
+      "source": "Quanta Magazine",
+      "category": "Science & Mathematics",
+      "published_at": "2026-11-04T15:32:52.000Z",
+      "collected_at": "2026-11-08T16:00:47.932Z",
+      "title_ko": "AI 모델은 자기 생각을 알까? 새 연구가 던진 질문",
+      "summary_ko": "연구자들은 대규모 언어 모델에 ‘생각’을 직접 주입해, AI가 자신의 내부 상태를 얼마나 들여다볼 수 있는지 알아보고 있다."
+    },
+    {
+      "key": "url:https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+      "url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+      "doi": null,
+      "title": "Is There Anything Left in the Dream of Cold Fusion?",
+      "title_key": "isthereanythingleftinthedreamofcoldfusion",
+      "summary": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics. The post Is There Anything Left in the Dream of Cold Fusion? first appeared on Quanta Magazine",
+      "source": "Quanta Magazine",
+      "category": "Science & Mathematics",
+      "published_at": "2026-11-02T15:48:57.000Z",
+      "collected_at": "2026-11-08T16:00:47.932Z",
+      "title_ko": "상온 핵융합의 꿈에는 무엇이 남아 있을까?",
+      "summary_ko": "상온 핵융합을 조금 더 깊이 들여다보면 특이한 원자를 활용하는 연구가 활발히 진행되고 있다. 이 연구가 에너지 위기를 해결할 가능성은 낮지만, 물리학의 탐구 범위를 넓히고 있다."
+    },
+    {
+      "key": "url:https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+      "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+      "doi": null,
+      "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
+      "title_key": "anewmapofemptyspacechallengesatranquilpictureofthegalaxy",
+      "summary": "For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus. The post A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy first appeared on Quanta Magazine",
+      "source": "Quanta Magazine",
+      "category": "Science & Mathematics",
+      "published_at": "2026-10-30T14:52:05.000Z",
+      "collected_at": "2026-11-08T16:00:47.932Z",
+      "title_ko": "‘텅 빈’ 우주의 새 지도가 뒤흔든 고요한 은하의 이미지",
+      "summary_ko": "수십 년 동안 천문학자들은 성간 물질을 우주에서 벌어지는 사건들의 정적인 배경으로 여겼다. 최근 잇따른 3차원 지도 제작으로 성간 물질이 역동적으로 변화한다는 사실이 뚜렷해지고 있다."
+    },
+    {
+      "key": "url:https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "doi": null,
+      "title": "How Do You Take a Picture of a Black Hole?",
+      "title_key": "howdoyoutakeapictureofablackhole",
+      "summary": "Astrophysicist Shep Doeleman explains how capturing the first image of a black hole required a telescope the size of the world, and why the next goal is to create a movie. The post How Do You Take a Picture of a Black Hole? first appeared on Quanta Magazine",
+      "source": "Quanta Magazine",
+      "category": "Science & Mathematics",
+      "published_at": "2026-10-29T15:11:57.000Z",
+      "collected_at": "2026-11-08T16:00:47.932Z",
+      "title_ko": "블랙홀은 어떻게 촬영할까?",
+      "summary_ko": "천체물리학자 셰프 돌먼이 블랙홀의 첫 이미지를 얻는 데 왜 지구 크기의 망원경이 필요했는지, 그리고 다음 목표가 왜 블랙홀을 동영상으로 담는 것인지 설명한다."
     }
   ]
 }
