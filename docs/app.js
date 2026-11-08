@@ -27,8 +27,8 @@ function render() {
     let url='#';try{const u=new URL(a.url);if(['https:','http:'].includes(u.protocol))url=u.toString();}catch{}
     html+='<article class="card"><div class="meta">'+esc(a.category)+' · '+esc(a.source)+' · '+esc(day)+'</div>'+
       '<div class="title"><a href="'+esc(url)+'" target="_blank" rel="noopener noreferrer">'+
-      esc(isKO ? a.title_ko : a.title)+'</a></div>'+
-      '<div class="summary">'+esc(isKO ? a.summary_ko : a.summary)+'</div></article>';
+      esc(isKO ? (a.title_ko ?? a.title) : a.title)+'</a></div>'+
+      '<div class="summary">'+esc(isKO ? (a.summary_ko ?? a.summary) : a.summary)+'</div></article>';
   }
   el('feed').innerHTML = html || '<p class="empty">'+L.empty+'</p>';
 }
