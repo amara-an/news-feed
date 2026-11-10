@@ -1,7 +1,7 @@
 name: Collect academic feeds
 on:
   schedule:
-    - cron: '0 17 * * *' # 02:00 Asia/Seoul, one hour after Cloudflare 01:00 collection
+    - cron: '17 18 * * *' # 03:17 Asia/Seoul (18:17 UTC previous day); offset from top of hour to reduce GitHub scheduler contention
   workflow_dispatch:
   push:
     branches: [main]
