@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-11-14T22:26:07.573Z",
+  "updated_at": "2026-11-15T22:50:06.870Z",
   "articles": [
     {
       "key": "url:https://archaeology.org/news/2026/11/13/study-suggests-ancient-peruvians-adapted-to-environmental-stressors/",
@@ -3735,6 +3735,66 @@
       "collected_at": "2026-11-14T16:00:47.988Z"
     },
     {
+      "key": "doi:10.1073/pnas.2634875123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2634875123?af=R",
+      "doi": "10.1073/pnas.2634875123",
+      "title": "Correction for Tsang et al., Cyclin D1 overexpression supports stable EBV infection in nasopharyngeal epithelial cells",
+      "title_key": "correctionfortsangetalcyclind1overexpressionsupportsstableebvinfectioninnasopharyngealepithelialcells",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-11-02T08:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "doi:10.1073/pnas.2635730123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2635730123?af=R",
+      "doi": "10.1073/pnas.2635730123",
+      "title": "Correction for Iwawaki et al., Function of IRE1 alpha in the placenta is essential for placental development and embryonic viability",
+      "title_key": "correctionforiwawakietalfunctionofire1alphaintheplacentaisessentialforplacentaldevelopmentandembryonicviability",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-11-02T08:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "doi:10.1073/pnas.2636780123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2636780123?af=R",
+      "doi": "10.1073/pnas.2636780123",
+      "title": "Correction for LaFoya et al., Midbody formation triggers asymmetric fate specification in neural stem cells",
+      "title_key": "correctionforlafoyaetalmidbodyformationtriggersasymmetricfatespecificationinneuralstemcells",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-11-02T08:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "doi:10.1073/pnas.2636808123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2636808123?af=R",
+      "doi": "10.1073/pnas.2636808123",
+      "title": "Correction for Fahy et al., Hydroxyl radical oxidation of chemical contaminants on indoor surfaces and dust",
+      "title_key": "correctionforfahyetalhydroxylradicaloxidationofchemicalcontaminantsonindoorsurfacesanddust",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-11-02T08:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "doi:10.1073/pnas.2636951123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2636951123?af=R",
+      "doi": "10.1073/pnas.2636951123",
+      "title": "Correction for Borowiec et al., Mutations at the BLK locus linked to maturity onset diabetes of the young and β-cell dysfunction",
+      "title_key": "correctionforborowiecetalmutationsattheblklocuslinkedtomaturityonsetdiabetesoftheyoungandβcelldysfunction",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-11-02T08:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
       "key": "url:https://elifesciences.org/articles/102635",
       "url": "https://elifesciences.org/articles/102635",
       "doi": null,
@@ -3889,6 +3949,102 @@
       "category": "Natural Sciences",
       "published_at": "2026-10-30T07:00:00.000Z",
       "collected_at": "2026-11-09T16:00:48.002Z"
+    },
+    {
+      "key": "doi:10.1073/pnas.2610670123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2610670123?af=R",
+      "doi": "10.1073/pnas.2610670123",
+      "title": "Where intention goes, responsibility flows: Grounding AI accountability in the machine learning paradigm",
+      "title_key": "whereintentiongoesresponsibilityflowsgroundingaiaccountabilityinthemachinelearningparadigm",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>An opening salvo of lawsuits in US courts has begun holding AI companies accountable through independent doctrinal routes: Product liability and agency law cut as swords, while the shields of Section 230 immunity and First Amendment doctrine begin to ...",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-10-30T07:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "doi:10.1073/pnas.2611970123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2611970123?af=R",
+      "doi": "10.1073/pnas.2611970123",
+      "title": "AR signaling context and the apparent lack of synergy between AR-targeted therapy and PARP inhibition",
+      "title_key": "arsignalingcontextandtheapparentlackofsynergybetweenartargetedtherapyandparpinhibition",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-10-30T07:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "doi:10.1073/pnas.2618841123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2618841123?af=R",
+      "doi": "10.1073/pnas.2618841123",
+      "title": "Reply to Zhou and Tsao: Synergy rarely underlies the benefits of combination cancer therapy",
+      "title_key": "replytozhouandtsaosynergyrarelyunderliesthebenefitsofcombinationcancertherapy",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-10-30T07:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "doi:10.1073/pnas.2630921123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2630921123?af=R",
+      "doi": "10.1073/pnas.2630921123",
+      "title": "Reassessing the causal interpretation of the UK sugar-rationing natural experiment",
+      "title_key": "reassessingthecausalinterpretationoftheuksugarrationingnaturalexperiment",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-10-30T07:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "doi:10.1073/pnas.2632695123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2632695123?af=R",
+      "doi": "10.1073/pnas.2632695123",
+      "title": "Reply to Cirillo: Early-life exposure to the sugar-rationing regime, not a measured sugar dose, drives the cancer gradient",
+      "title_key": "replytocirilloearlylifeexposuretothesugarrationingregimenotameasuredsugardosedrivesthecancergradient",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-10-30T07:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "doi:10.1073/pnas.2633584123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2633584123?af=R",
+      "doi": "10.1073/pnas.2633584123",
+      "title": "Mark A. Ratner (1942–2026): Founded molecular electronics while spearheading the growth of science at Northwestern University",
+      "title_key": "markaratner19422026foundedmolecularelectronicswhilespearheadingthegrowthofscienceatnorthwesternuniversity",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>Recently, we lost one of the original developers of the field of molecular electronics. Mark A. Ratner wrote a famous paper in 1974 that developed the theoretical framework for making a molecule act as a rectifier. This idea, and a host of further ideas ...",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-10-30T07:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "doi:10.1073/pnas.2634301123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2634301123?af=R",
+      "doi": "10.1073/pnas.2634301123",
+      "title": "Correction for Toyonaga et al., Collapsible scissored surfaces",
+      "title_key": "correctionfortoyonagaetalcollapsiblescissoredsurfaces",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-10-30T07:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "doi:10.1073/pnas.2636506123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2636506123?af=R",
+      "doi": "10.1073/pnas.2636506123",
+      "title": "Correction for Du et al., Directed assembly of cell-laden microgels for fabrication of 3D tissue constructs",
+      "title_key": "correctionforduetaldirectedassemblyofcellladenmicrogelsforfabricationof3dtissueconstructs",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-10-30T07:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
     },
     {
       "key": "url:https://elifesciences.org/articles/102095",
@@ -4539,6 +4695,18 @@
       "collected_at": "2026-11-09T16:00:48.002Z"
     },
     {
+      "key": "doi:10.1073/pnas.2538105123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2538105123?af=R",
+      "doi": "10.1073/pnas.2538105123",
+      "title": "Synchronous end-Permian mass extinction zenith in marine and low–middle latitude terrestrial North China",
+      "title_key": "synchronousendpermianmassextinctionzenithinmarineandlowmiddlelatitudeterrestrialnorthchina",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>SignificanceThis study resolves a long-standing debate over end-Permian mass extinction synchrony by integrating magnetostratigraphy, cyclostratigraphy, and geochemistry from North China’s fluvial Permian–Triassic succession. We establish a 4.2-My ...",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-10-27T07:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
       "key": "url:https://elifesciences.org/articles/100230",
       "url": "https://elifesciences.org/articles/100230",
       "doi": null,
@@ -4609,6 +4777,42 @@
       "category": "Social Sciences",
       "published_at": "2026-10-26T10:53:13.000Z",
       "collected_at": "2026-11-09T16:00:48.002Z"
+    },
+    {
+      "key": "doi:10.1073/pnas.2618030123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2618030123?af=R",
+      "doi": "10.1073/pnas.2618030123",
+      "title": "Behavioral evidence for two-stage sleep in spiders",
+      "title_key": "behavioralevidencefortwostagesleepinspiders",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>SignificanceSleep is one of the most widespread behaviors in the animal kingdom, yet its origins and functions remain poorly understood because experimental evidence comes almost entirely from vertebrates and a few laboratory model species. We provide a ...",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-10-26T07:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "doi:10.1073/pnas.2624362123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2624362123?af=R",
+      "doi": "10.1073/pnas.2624362123",
+      "title": "New molecular and historical evidence on ancient Egyptian embalming",
+      "title_key": "newmolecularandhistoricalevidenceonancientegyptianembalming",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>SignificanceThis study integrates Egyptological and pharmaceutical-historical analysis with LC–MS/MS-based metabolomics, molecular networking, machine-learning-assisted annotation, and bioactivity testing to investigate ancient Egyptian embalming ...",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-10-26T07:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "doi:10.1073/pnas.2626989123",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2626989123?af=R",
+      "doi": "10.1073/pnas.2626989123",
+      "title": "Rembrandt through the eyes of the machine: Toward explainable Human–AI collaboration in painting attribution",
+      "title_key": "rembrandtthroughtheeyesofthemachinetowardexplainablehumanaicollaborationinpaintingattribution",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br/>SignificanceMuch as X-rays transformed art connoisseurship as a new tool to test theories of cultural and historical importance, AI introduces a novel layer of analysis based on statistical pattern-finding. We develop a deep learning approach for artist ...",
+      "source": "PNAS",
+      "category": "Natural Sciences",
+      "published_at": "2026-10-26T07:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
     },
     {
       "key": "doi:10.1038/s41562-026-02539-9",
@@ -4971,6 +5175,66 @@
       "collected_at": "2026-11-12T16:00:48.702Z"
     },
     {
+      "key": "url:https://elifesciences.org/articles/106344",
+      "url": "https://elifesciences.org/articles/106344",
+      "doi": null,
+      "title": "p66Shc mediates SUMO2-induced endothelial dysfunction",
+      "title_key": "p66shcmediatessumo2inducedendothelialdysfunction",
+      "summary": "Sumoylation is a post-translational modification that can regulate different physiological functions. Increased sumoylation, specifically conjugation of SUMO2/3 (small ubiquitin-like modifier 2/3), is detrimental to vascular health. However, the molecular mechanism mediating this effect is poorly understood. We used cell-based assays and mass spectrometry to show that p66Shc is a direct target of SUMO2 and that SUMO2 regulates p66Shc function via lysine-81 modification. To determine the effects of SUMO2-p66ShcK81 on vascular function, we generated Shc1<i><sup>K81R</sup></i> mice and crossbred them toLdlr<i><sup>-/-</sup></i> mice to induce hyperlipidemia. Next, to determine p66ShcK81-SUMO2ylation-induced changes in endothelial cell signaling, we performed mass spectrometry followed by Ingenuity Pathway Analysis. Our data reveal that p66Shc mediates the effects of SUMO2 on endothelial cells. Mass spectrometry identified that SUMO2 modified lysine-81 in the unique collagen homology-2 domain of p66Shc. SUMO2ylation of p66Shc increased phosphorylation at serine-36, causing it to translocate to the mitochondria, a step critical for the oxidative function of p66Shc. Notably, sumoylation-deficient p66Shc (p66ShcK81R) was resistant to SUMO2-induced p66ShcS36 phosphorylation and mitochondrial translocation. Shc1<i><sup>K81R</sup></i> mice were resistant to endothelial dysfunction induced by SUMO2ylation and hyperlipidemia. Ingenuity Pathway Analysis revealed multiple signaling pathways regulated by p66ShcK81-SUMO2ylation in endothelial cells, highlighting JAK-STAT as a major pathway",
+      "source": "eLife",
+      "category": "Life Sciences",
+      "published_at": "2026-10-21T00:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "url:https://elifesciences.org/articles/109678",
+      "url": "https://elifesciences.org/articles/109678",
+      "doi": null,
+      "title": "Strong mnemonic prediction errors increase cognitive control, attention, and arousal",
+      "title_key": "strongmnemonicpredictionerrorsincreasecognitivecontrolattentionandarousal",
+      "summary": "Ongoing experience is continuously processed in the context of past events. Divergence between current experience and memory-based predictions (i.e., a mnemonic prediction error; MPE) is theorized to be a signal that encoding, as opposed to retrieval, should be prioritized. We asked how MPEs place demands on control and attention-related processes, and whether these demands differ as a function of prediction strength. We investigated these questions across two experiments, wherein we recorded scalp electroencephalography and/or pupillometry as 101 young human adults performed an associative memory task. Strong MPEs, more so than weak MPEs, increased physiological indices of cognitive control (frontal theta), attention (posterior alpha and pupil size), and arousal (pupil size). Greater cognitive control (frontal theta) during strong MPEs promoted better learning of prediction-violating (i.e., unexpected) stimuli. Collectively, these findings reveal multiple pathways through which the mind and brain respond adaptively to violations of strong mnemonic predictions.",
+      "source": "eLife",
+      "category": "Life Sciences",
+      "published_at": "2026-10-21T00:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "url:https://elifesciences.org/articles/109757",
+      "url": "https://elifesciences.org/articles/109757",
+      "doi": null,
+      "title": "A mechanistic theory of planning in prefrontal cortex",
+      "title_key": "amechanistictheoryofplanninginprefrontalcortex",
+      "summary": "Planning is critical for adaptive behaviour in a changing world, because it lets us anticipate the future and adjust our actions accordingly. While prefrontal cortex is crucial for this process, it remains unknown how planning is implemented in neural circuits. Prefrontal representations were recently discovered in simpler sequence memory tasks, where different populations of neurons represent different future time points. We demonstrate that combining such representations with the ubiquitous principle of neural attractor dynamics allows circuits to solve much richer problems, including planning. This is achieved by embedding the environment structure directly in synaptic connections to implement an attractor network that infers desirable futures. The resulting ‘spacetime attractor’ excels at planning in challenging tasks known to depend on the prefrontal cortex. Recurrent neural networks trained by gradient descent on such tasks learn a solution that precisely recapitulates the spacetime attractor – in representation, in dynamics, and in connectivity. Analyses of networks trained across different environment structures reveal a generalisation mechanism that rapidly reconfigures the world model used for planning, without the need for synaptic plasticity. The spacetime attractor is a testable mechanistic theory of planning. If true, it would provide a path towards detailed mechanistic understanding of how prefrontal cortex structures adaptive behaviour.",
+      "source": "eLife",
+      "category": "Life Sciences",
+      "published_at": "2026-10-21T00:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "url:https://elifesciences.org/articles/111177",
+      "url": "https://elifesciences.org/articles/111177",
+      "doi": null,
+      "title": "Complementary stable and dynamic prelimbic ensembles encode learned threat value underlying generalization and discrimination",
+      "title_key": "complementarystableanddynamicprelimbicensemblesencodelearnedthreatvalueunderlyinggeneralizationanddiscrimination",
+      "summary": "Adaptive behavior requires assigning emotional value to sensory cues and generalizing to similar stimuli. The prelimbic cortex (PL) is critical for threat expression and discrimination, yet its neuronal ensembles undergo substantial turnover over time. How stable population codes emerge despite this reorganization remains unknown. Using longitudinal calcium imaging in freely moving mice, we tracked PL activity for 30 days during auditory discriminative fear learning and retrieval. Despite substantial ensemble turnover, stable graded representations persisted in PL populations. A generalized linear model showed that the tone threat value explained graded activity better than freezing, indicating that PL primarily encodes stimulus significance. Population similarity across stimulus presentations was highest for shock-associated and highly generalized tones, suggesting a stable population code underlying threat generalization. Stable neurons preserved graded gradients across sessions, whereas learning modulated the rate of dynamic frequency-selective neurons. Together, these populations enabled stable threat-value coding despite ongoing ensemble reorganization.",
+      "source": "eLife",
+      "category": "Life Sciences",
+      "published_at": "2026-10-21T00:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "url:https://elifesciences.org/articles/113551",
+      "url": "https://elifesciences.org/articles/113551",
+      "doi": null,
+      "title": "Correction: Inhibitors of the small membrane (M) protein viroporin prevent Zika virus infection",
+      "title_key": "correctioninhibitorsofthesmallmembranemproteinviroporinpreventzikavirusinfection",
+      "summary": "",
+      "source": "eLife",
+      "category": "Life Sciences",
+      "published_at": "2026-10-21T00:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
       "key": "url:https://blogs.lse.ac.uk/politicsandpolicy/does-falling-migration-spell-trouble-for-the-budget/",
       "url": "https://blogs.lse.ac.uk/politicsandpolicy/does-falling-migration-spell-trouble-for-the-budget/",
       "doi": null,
@@ -4981,6 +5245,66 @@
       "category": "Social Sciences",
       "published_at": "2026-10-20T08:48:53.000Z",
       "collected_at": "2026-11-09T16:00:48.002Z"
+    },
+    {
+      "key": "url:https://elifesciences.org/articles/106510",
+      "url": "https://elifesciences.org/articles/106510",
+      "doi": null,
+      "title": "Multiplexed CRISPRi reveals a transcriptional switch between KLF activators and repressors in the maturing neocortex",
+      "title_key": "multiplexedcrisprirevealsatranscriptionalswitchbetweenklfactivatorsandrepressorsinthematuringneocortex",
+      "summary": "A critical phase of mammalian brain development takes place after birth. Neurons of the mouse neocortex undergo dramatic changes in their morphology, physiology, and synaptic connections during the first postnatal month, while properties of immature neurons, such as the capacity for robust axon outgrowth, are lost. The genetic and epigenetic programs controlling prenatal development are well studied, but our understanding of the transcriptional mechanisms that regulate postnatal neuronal maturation is comparatively lacking. By integrating chromatin accessibility and gene expression data from two subtypes of neocortical pyramidal neurons in the neonatal and maturing brain, we predicted a role for the Krüppel-like factor (KLF) family of transcription factors in the developmental regulation of neonatally expressed genes. Using a multiplexed CRISPR interference (CRISPRi) knockdown strategy, we found that a shift in expression from KLF activators (Klf6, Klf7) to repressors (Klf9, Klf13) during early postnatal development functions as a transcriptional ‘switch’ to first activate, then repress a set of shared targets with cytoskeletal functions including <i>Tubb2b</i> and <i>Dpysl3</i>. We demonstrate that this switch is buffered by redundancy between KLF paralogs, which our multiplexed CRISPRi strategy is equipped to overcome and study. Our results indicate that competition between activators and repressors within the KLF family regulates a conserved component of the postnatal maturation program that may underlie the loss of intrinsic axon growth in maturing neurons. This could f",
+      "source": "eLife",
+      "category": "Life Sciences",
+      "published_at": "2026-10-20T00:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "url:https://elifesciences.org/articles/111730",
+      "url": "https://elifesciences.org/articles/111730",
+      "doi": null,
+      "title": "An integrated human forebrain organoid reveals microglia-mediated CD8<sup>+</sup> T cell recruitment and neuroimmune dysfunction in Alzheimer’s disease pathology",
+      "title_key": "anintegratedhumanforebrainorganoidrevealsmicrogliamediatedcd8supsuptcellrecruitmentandneuroimmunedysfunctioninalzheimersdiseasepathology",
+      "summary": "Genetic evidence implicates immune dysfunction in Alzheimer’s disease (AD), yet the neuroimmune mechanisms operating in human tissue remain poorly defined. Here, we establish a modular human forebrain organoid platform that systematically integrates human induced pluripotent stem cell-derived microglia and CD8<sup>+</sup> T cells to reconstitute multicellular AD pathology. This system enables functional interrogation of both innate and adaptive immune components in a human-relevant context. Using this platform, we demonstrate that microglia mediate amyloid-β clearance and neuronal maturation but also drive inflammatory activation and recruit CD8<sup>+</sup> T cells through CCL4/5 signaling via CCR1/5 and CXCR3, establishing a neuroinflammatory feedback loop. Pharmacological targeting of CCR5 or CXCR3 blocks T cell recruitment and modulates autophagy in a microglia-dependent manner. This modular organoid platform provides a versatile tool for dissecting neuron–immune interactions and enables cell-type-specific therapeutic screening in human neuroinflammatory disease models.",
+      "source": "eLife",
+      "category": "Life Sciences",
+      "published_at": "2026-10-20T00:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "url:https://elifesciences.org/articles/109876",
+      "url": "https://elifesciences.org/articles/109876",
+      "doi": null,
+      "title": "Bruce suppresses autophagy-regulated caspase activity and wing tissue growth in <i>Drosophila</i>",
+      "title_key": "brucesuppressesautophagyregulatedcaspaseactivityandwingtissuegrowthinidrosophilai",
+      "summary": "Caspases are cysteine-aspartic proteases that mediate both lethal and non-lethal cellular outcomes, including the promotion of tissue growth. However, the mechanisms underlying the differential regulation of these activities remain unclear. We have previously shown that among the two <i>Drosophila</i> executioner caspases, Dcp-1 and Drice, Dcp-1 promotes tissue growth in a non-lethal manner, independent of canonical apoptotic signaling. Herein, we demonstrated that overexpressed Dcp-1, but not Drice, was activated without canonical apoptosome components. TurboID-based proximity labeling revealed distinct proximal proteomes, among which Sirtuin 1, an Atg8a deacetylase, which promotes autophagy, was specifically required for Dcp-1 activation. Autophagy-related genes, including Bcl-2 family members <i>Debcl</i> and <i>Buffy</i>, are required for Dcp-1 activation. Structure-based prediction using AlphaFold3 further identified Bruce, an autophagy-regulated inhibitor of apoptosis, as a Dcp-1-specific regulator acting outside the apoptosome-mediated pathway. Physiologically, Bruce suppresses wing tissue growth. These findings indicate that non-lethal Dcp-1 activity is governed by the autophagy–Bruce axis, enabling distinct non-lethal functions independent of cell death.",
+      "source": "eLife",
+      "category": "Life Sciences",
+      "published_at": "2026-10-19T00:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "url:https://elifesciences.org/articles/111335",
+      "url": "https://elifesciences.org/articles/111335",
+      "doi": null,
+      "title": "Syntaxin11 deficiency inhibits CRAC channel priming to suppress cytotoxicity and gene expression in T lymphocytes independent of membrane trafficking",
+      "title_key": "syntaxin11deficiencyinhibitscracchannelprimingtosuppresscytotoxicityandgeneexpressionintlymphocytesindependentofmembranetrafficking",
+      "summary": "Mutations in Syntaxin11 (STX11), a Q-SNARE, result in a fatal immune disorder known as familial hemophagocytic lymphohistiocytosis 4 (FHLH4) in human patients. A key diagnostic feature of FHLH4 is defective T and natural killer cell cytotoxicity. Here, we show that STX11 directly binds and regulates Orai1, the pore-forming subunit of calcium release-activated calcium (CRAC) channels. CRAC channels enable store-operated calcium entry (SOCE) from the extracellular space and are crucial for granule exocytosis and nuclear factor of activated T cells (NFAT)-dependent gene expression in activated lymphocytes. STX11 depletion strongly inhibited SOCE, CRAC currents, NFAT activation, interleukin-2 gene expression, and degranulation in FHLH4 patient T lymphocytes and cell lines without affecting membrane trafficking. Remarkably, defects of cytolytic granule exocytosis, as well as interleukin-2 expression, could be reversed by ionomycin in patient T lymphocytes, and a constitutively active, H134S, mutant of Orai1 rescued calcium entry in STX11-depleted cells. Further analyses showed that STX11 ‘primes’ Orai1 for optimal on-site multimeric assembly, which was Stim independent but required for gating. Priming of ion channel pore subunits is, therefore, a primary function of specific SNAREs which may have preceded their role in membrane trafficking and vesicle fusion.",
+      "source": "eLife",
+      "category": "Life Sciences",
+      "published_at": "2026-10-19T00:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
+    },
+    {
+      "key": "url:https://elifesciences.org/articles/113484",
+      "url": "https://elifesciences.org/articles/113484",
+      "doi": null,
+      "title": "Correction: Cold-inducible RNA-binding protein (CIRBP) adjusts clock-gene expression and REM-sleep recovery following sleep deprivation",
+      "title_key": "correctioncoldinduciblernabindingproteincirbpadjustsclockgeneexpressionandremsleeprecoveryfollowingsleepdeprivation",
+      "summary": "",
+      "source": "eLife",
+      "category": "Life Sciences",
+      "published_at": "2026-10-19T00:00:00.000Z",
+      "collected_at": "2026-11-15T16:00:48.173Z"
     }
   ]
 }
