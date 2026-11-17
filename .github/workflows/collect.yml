@@ -9,6 +9,8 @@ on:
       - '.github/workflows/collect.yml'
       - 'src/import-cloudflare.mjs'
       - 'src/fetch-cloudflare.mjs'
+      - 'docs/data/en.json'
+      - 'docs/data/ko.json'
 permissions:
   contents: write
   pages: write
