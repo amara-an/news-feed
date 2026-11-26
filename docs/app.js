@@ -31,6 +31,34 @@ function render() {
       '<div class="summary">'+esc(isKO ? (a.summary_ko ?? a.summary) : a.summary)+'</div></article>';
   }
   el('feed').innerHTML = html || '<p class="empty">'+L.empty+'</p>';
+  for (const summary of el('feed').querySelectorAll('.summary')) {
+    summary.style.whiteSpace = 'pre-wrap';
+    summary.style.overflowWrap = 'anywhere';
+    summary.style.display = '-webkit-box';
+    summary.style.webkitBoxOrient = 'vertical';
+    summary.style.webkitLineClamp = '3';
+    summary.style.overflow = 'hidden';
+    if (summary.scrollHeight <= summary.clientHeight + 1) {
+      summary.style.display = 'block';
+      summary.style.webkitLineClamp = '';
+      summary.style.overflow = '';
+      continue;
+    }
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.textContent = isKO ? '초록 펼치기 ▾' : 'Expand abstract ▾';
+    button.setAttribute('aria-expanded', 'false');
+    button.style.cssText = 'display:block;margin:8px auto 0;padding:6px 14px;cursor:pointer;font:inherit;';
+    summary.after(button);
+    button.onclick = () => {
+      const expanded = button.getAttribute('aria-expanded') === 'true';
+      summary.style.display = expanded ? '-webkit-box' : 'block';
+      summary.style.webkitLineClamp = expanded ? '3' : '';
+      summary.style.overflow = expanded ? 'hidden' : '';
+      button.setAttribute('aria-expanded', String(!expanded));
+      button.textContent = expanded ? (isKO ? '초록 펼치기 ▾' : 'Expand abstract ▾') : (isKO ? '초록 접기 ▴' : 'Collapse abstract ▴');
+    };
+  }
 }
 async function load() {
   try {
